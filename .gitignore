@@ -1,0 +1,12 @@
+# Python & PyTorch cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter & Kaggle temporary checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS metadata
+.DS_Store
+Thumbs.db
